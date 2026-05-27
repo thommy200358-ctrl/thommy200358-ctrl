@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Thomas Pacheco 👋
 
-<!--
-**thommy200358-ctrl/thommy200358-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity student  
+🔒 Interested in Offensive Security, SOC Analysis, Ethical Hacking and Cloud Security
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux
+- Networking
+- Burp Suite
+- Wireshark
+- Nmap
+- OWASP Top 10
+- Git/GitHub
+
+## Current Goals
+
+- Build cybersecurity labs
+- Create CTF writeups
+- Learn cloud security
+- Develop security projects
+
+## Connect with me
+
+LinkedIn: www.linkedin.com/in/thomas-augusto-pacheco-medina-b35ba2411
+Email: thommy200358@gmail.com
